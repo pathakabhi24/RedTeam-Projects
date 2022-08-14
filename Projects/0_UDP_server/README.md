@@ -28,7 +28,3 @@ $ python3 UDPclient.py
     https://pythontic.com/modules/socket/udp-client-server-example
 
 
-## Developer
-
-[<img src="https://avatars.githubusercontent.com/u/32443720?v=4" width=115 > <br> <sub> Augusto Savi </sub>](https://github.com/AugustoSavi) |
-| :---: |

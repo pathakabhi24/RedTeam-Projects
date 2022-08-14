@@ -19,7 +19,4 @@ $ cd src/com/server/ && java Server.java
 $ cd src/com/client/ && java Client.java
 ```
 
-## Developer
 
-[<img src="https://avatars.githubusercontent.com/u/32443720?v=4" width=115 > <br> <sub> Augusto Savi </sub>](https://github.com/AugustoSavi) |
-| :---: |

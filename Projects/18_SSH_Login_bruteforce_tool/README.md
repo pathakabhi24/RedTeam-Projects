@@ -11,10 +11,10 @@
 
 ## :information_source: How to execute
 ```
-// Access the dir you want, exemple:
+// Access the dir you want, example:
 cd MultiThread
 
-// run de script, exemple: ruby bruteForceSSH.rb br1.wqewqeqw.tk ../data/users.txt ../data/passwords1000.txt
+// run de script, example: ruby bruteForceSSH.rb br1.wqewqeqw.tk ../data/users.txt ../data/passwords1000.txt
 ruby bruteForceSSH.rb <host> <path_to_user_list> <path_to_user_password>
 
 ```

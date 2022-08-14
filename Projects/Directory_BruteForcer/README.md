@@ -18,8 +18,3 @@ $ cd 100-redteam-projects/Directory_BruteForcer
 $ python3 DBF.py https://example.com wordlist.txt 100
 
 ```
-## Developer
-<p align="center">
-<a href="https://github.com/MayankPandey01" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/29165227?s=96&v=4" alt="Mayank" height="120" width="120" /></a>
-<a href="https://www.twitter.com/Mayank_pandey01" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-logo.png" alt="Mayank" height="120" width="120" /></a>
-</p>
